@@ -1,0 +1,2 @@
+# akamTerraform
+Akamai Terraform Training
